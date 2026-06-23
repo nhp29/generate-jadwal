@@ -326,7 +326,7 @@ const App = () => {
 
             <div className="bg-white rounded-2xl shadow-sm p-5 border border-slate-200">
               <div className="flex justify-between items-center mb-4">
-                <h2 className="text-lg font-semibold flex items-center gap-2">
+                <h2 className="text-lg font-semibold text-slate-800 flex items-center gap-2">
                   <Users size={20} className="text-slate-600" />
                   Daftar Personil
                 </h2>
