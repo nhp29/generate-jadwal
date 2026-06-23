@@ -274,7 +274,7 @@ const App = () => {
           {/* Sidebar Pengaturan */}
           <aside className="lg:col-span-1 space-y-6 print:hidden">
             <div className="bg-white rounded-2xl shadow-sm p-5 border border-slate-200">
-              <h2 className="text-lg font-semibold flex items-center gap-2 mb-4">
+              <h2 className="text-lg font-semibold text-slate-800 flex items-center gap-2 mb-4">
                 <Clock size={20} className="text-slate-600" />
                 Periode
               </h2>
